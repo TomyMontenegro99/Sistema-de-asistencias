@@ -1,0 +1,10 @@
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\bin\Debug\ORUS.exe.config
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\bin\Debug\ORUS.exe
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\bin\Debug\ORUS.pdb
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.csproj.AssemblyReference.cache
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.Properties.Resources.resources
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.csproj.GenerateResource.cache
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.csproj.CoreCompileInputs.cache
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.exe
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.pdb
