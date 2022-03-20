@@ -26,5 +26,35 @@ namespace ORUS.Presentacion
         {
 
         }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panelBienvenida_Paint(object sender, PaintEventArgs e)
+        {
+            panelBienvenida.Dock = DockStyle.Fill;
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnConsultas_Click(object sender, EventArgs e)
+        {
+            PruebaForm frm = new PruebaForm();
+            frm.ShowDialog();
+        }
+
+        private void btnPersonal_Click(object sender, EventArgs e)
+        {
+            PruebasControl Control = new PruebasControl();
+            panel2.Controls.Clear();
+            Control.Dock = DockStyle.Fill;
+            panel2.Controls.Add(Control);
+        }
     }
 }

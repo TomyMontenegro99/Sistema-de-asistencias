@@ -8,3 +8,5 @@ C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.csproj.GenerateRe
 C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.csproj.CoreCompileInputs.cache
 C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.exe
 C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.pdb
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.Presentacion.MenuPrincipal.resources
+C:\Users\tomym\Desktop\Proyectos en csharp\ORUS\obj\Debug\ORUS.Presentacion.PruebasControl.resources
